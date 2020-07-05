@@ -1,0 +1,4 @@
+# Project exclude paths
+/service-abstract/target/
+/service-impl/target/
+/webapp/target/
